@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c25984e0ead0254bbf85ebfb1b525b5, type: 3}
+  m_Name: Slash
+  m_EditorClassIdentifier: 
+  abilityID: 1
+  abilityName: Slash
+  abilityDescription: Slash the Enemy
+  abilityType: Melee
+  abilityLocation: Slash
+  comboButtons: 07000000
+  abilityAnimationTrigger: attack1
+  abilitySelfVFX: {fileID: 6957628203989386237, guid: e4d28287075267f46b56dfe2ee7097ee,
+    type: 3}
+  abilityImpactVFX: {fileID: 0}
+  abilityLevel: 1
+  abilityDamage: 5
+  abilityCooldown: 0.2
+  damage: 1
+  knockBackForce: {x: 5, y: 0}
+  damageTime: 0.4
+  recoveryTime: 0.55
+  hitBoxType: 1
+  hitBoxPosition: {x: 1, y: 0.33}
+  hitBoxSize: {x: 1.24, y: 1.35}
+  hitBoxAngle: 0
+  hitBoxRadius: 1
+  abilityPrefab: {fileID: 0}
+  joyDirection: 0
+  speed: 15
+  facingDirection: {x: 0, y: 0, z: 0}
+  turnObject: {x: 0, y: 0, z: 0}
+  spawnPoint: {x: 0, y: 0, z: 0}
+  comboAbility: {fileID: 11400000, guid: 2bda82ba2f598cb49b3be33e598e7d7a, type: 2}
