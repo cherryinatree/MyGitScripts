@@ -1,0 +1,40 @@
+{
+  "owners": [
+    {
+      "ownerName": "ShopKeep0",
+      "id": 0,
+      "scriptName": "scriptShop0",
+      "scriptPosition": 0,
+      "icon": "scriptShop0",
+      "items": [ 0, 1, 2, 3 ],
+      "equipment": [ 0, 1, 2, 3 ]
+    },
+    {
+      "ownerName": "ShopKeep0",
+      "id": 0,
+      "scriptName": "scriptShop0",
+      "scriptPosition": 0,
+      "icon": "scriptShop0",
+      "items": [ 0, 1, 2, 3 ],
+      "equipment": [ 0, 1, 2, 3 ]
+    },
+    {
+      "ownerName": "ShopKeep0",
+      "id": 0,
+      "scriptName": "scriptShop0",
+      "scriptPosition": 0,
+      "icon": "scriptShop0",
+      "items": [ 0, 1, 2, 3 ],
+      "equipment": [ 0, 1, 2, 3 ]
+    },
+    {
+      "ownerName": "ShopKeep0",
+      "id": 0,
+      "scriptName": "scriptShop0",
+      "scriptPosition": 0,
+      "icon": "scriptShop0",
+      "items": [ 0, 1, 2, 3 ],
+      "equipment": [ 0, 1, 2, 3 ]
+    }
+  ]
+}

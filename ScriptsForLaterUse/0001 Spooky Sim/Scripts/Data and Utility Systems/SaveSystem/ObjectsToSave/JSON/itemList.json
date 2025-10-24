@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "itemName": "health Potion0",
+      "id": 0,
+      "icon": "Images/Items/Healing/healthPotion1",
+      "animation": "Animations/Hovl Studio/Magic effects pack/Prefabs/Character auras/Healing",
+      "itemDiscription": "Heals for 5",
+      "consumable": true,
+      "type": "Healing",
+      "subType": "Healing",
+      "buyPrice": 100,
+      "sellPrice": 50,
+      "effect0": 5,
+      "effect1": 0,
+      "effect2": 0,
+      "effect3": 0
+    },
+    {
+      "itemName": "health Potion1",
+      "id": 1,
+      "icon": "Images/Items/Healing/healthPotion1",
+      "animation": "Animations/Hovl Studio/Magic effects pack/Prefabs/Character auras/Healing",
+      "itemDiscription": "Heals for 5",
+      "consumable": true,
+      "type": "Healing",
+      "subType": "Healing",
+      "buyPrice": 100,
+      "sellPrice": 50,
+      "effect0": 5,
+      "effect1": 0,
+      "effect2": 0,
+      "effect3": 0
+    },
+    {
+      "itemName": "health Potion2",
+      "id": 2,
+      "icon": "Images/Items/Healing/healthPotion1",
+      "animation": "Animations/Hovl Studio/Magic effects pack/Prefabs/Character auras/Healing",
+      "itemDiscription": "Heals for 5",
+      "consumable": true,
+      "type": "Healing",
+      "subType": "Healing",
+      "buyPrice": 100,
+      "sellPrice": 50,
+      "effect0": 5,
+      "effect1": 0,
+      "effect2": 0,
+      "effect3": 0
+    },
+    {
+      "itemName": "health Potion3",
+      "id": 3,
+      "icon": "Images/Items/Healing/healthPotion1",
+      "animation": "Animations/Hovl Studio/Magic effects pack/Prefabs/Character auras/Healing",
+      "itemDiscription": "Heals for 5",
+      "consumable": true,
+      "type": "Healing",
+      "subType": "Healing",
+      "buyPrice": 100,
+      "sellPrice": 50,
+      "effect0": 5,
+      "effect1": 0,
+      "effect2": 0,
+      "effect3": 0
+    }
+  ]
+}

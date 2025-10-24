@@ -1,0 +1,36 @@
+{
+  "StoreOwner": [
+    {
+      "ownerName": "ShopKeep0",
+      "id": 0,
+      "scriptName": "scriptShop0",
+      "scriptPosition": 0,
+      "items": [ 0, 1, 2, 3 ],
+      "Equipment": [ 0, 1, 2, 3 ]
+    },
+    {
+      "ownerName": "ShopKeep1",
+      "id": 1,
+      "scriptName": "scriptShop1",
+      "scriptPosition": 0,
+      "items": [ 0, 1, 2, 3 ],
+      "Equipment": [ 0, 1, 2, 3 ]
+    },
+    {
+      "ownerName": "ShopKeep2",
+      "id": 2,
+      "scriptName": "scriptShop2",
+      "scriptPosition": 0,
+      "items": [ 0, 1, 2, 3 ],
+      "Equipment": [ 0, 1, 2, 3 ]
+    },
+    {
+      "ownerName": "ShopKeep3",
+      "id": 3,
+      "scriptName": "scriptShop3",
+      "scriptPosition": 0,
+      "items": [ 0, 1, 2, 3 ],
+      "Equipment": [ 0, 1, 2, 3 ]
+    }
+  ]
+}

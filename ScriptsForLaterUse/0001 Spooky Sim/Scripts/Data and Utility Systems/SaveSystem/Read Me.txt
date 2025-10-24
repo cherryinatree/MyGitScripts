@@ -1,0 +1,4 @@
+Have new save objects inherit from the class "SaveObject". They will then all be able to be added to the SaveData file's 
+variable "list<SaveObject>" since they inherited from "SaveObject"
+
+MonoBehaviors with save files should inherit from "MonoBehaviorSave" and use the SaveMyDataStart() function in their Start() function
