@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b5ad07baddf055458c7436bc1b890c0, type: 3}
+  m_Name: Extoplasm
+  m_EditorClassIdentifier: Assembly-CSharp::CollectibleDefinition
+  prefab: {fileID: 1343427026604852284, guid: 859a36ab7a9a1864fb306cd66b092370, type: 3}
+  allowedSurfaces: 1
+  surfaceOffset: 0.002
+  randomYaw: 1
+  clearanceHalfExtents: {x: 0.12, y: 0.12, z: 0.12}
+  weight: 1

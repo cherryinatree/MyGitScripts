@@ -1,0 +1,68 @@
+{
+  "equipment": [
+    {
+      "equipmentName": "Sword0",
+      "id": 0,
+      "icon": "Images/Items/Weapons/sword0",
+      "equipmentDiscription": "Hits Hard",
+      "type": "Weapon",
+      "subType": "Fighter",
+      "buyPrice": 300,
+      "sellPrice": 150,
+      "health": 1,
+      "mana": 0,
+      "attack": 5,
+      "defence": 2,
+      "speed": 0,
+      "intelligence": 0
+    },
+    {
+      "equipmentName": "Sword1",
+      "id": 1,
+      "icon": "Images/Items/Weapons/sword0",
+      "equipmentDiscription": "Hits Hard",
+      "type": "Weapon",
+      "subType": "Fighter",
+      "buyPrice": 300,
+      "sellPrice": 150,
+      "health": 1,
+      "mana": 0,
+      "attack": 5,
+      "defence": 2,
+      "speed": 0,
+      "intelligence": 0
+    },
+    {
+      "equipmentName": "Sword2",
+      "id": 2,
+      "icon": "Images/Items/Weapons/sword0",
+      "equipmentDiscription": "Hits Hard",
+      "type": "Weapon",
+      "subType": "Fighter",
+      "buyPrice": 300,
+      "sellPrice": 150,
+      "health": 1,
+      "mana": 0,
+      "attack": 5,
+      "defence": 2,
+      "speed": 0,
+      "intelligence": 0
+    },
+    {
+      "equipmentName": "Sword3",
+      "id": 3,
+      "icon": "Images/Items/Weapons/sword0",
+      "equipmentDiscription": "Hits Hard",
+      "type": "Weapon",
+      "subType": "Fighter",
+      "buyPrice": 300,
+      "sellPrice": 150,
+      "health": 1,
+      "mana": 0,
+      "attack": 5,
+      "defence": 2,
+      "speed": 0,
+      "intelligence": 0
+    }
+  ]
+}
