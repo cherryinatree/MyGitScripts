@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d09241ba9c00abe489ccb00faef66a43, type: 3}
+  m_Name: Headquarters
+  m_EditorClassIdentifier: Assembly-CSharp::LevelDefinition
+  levelId: 0
+  sceneName: Headquarters
+  category: Home
+  displayName: Headquarters
+  description: Base of operations
+  thumbnail: {fileID: 21300000, guid: 7ca9eff51140f4f47b6c3f2e14a63c02, type: 3}
+  requirements: 0
+  recommendedLevel: 0
+  rewardMin: 50
+  rewardMax: 150
+  modifiersToRoll: 0

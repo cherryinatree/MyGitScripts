@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d09241ba9c00abe489ccb00faef66a43, type: 3}
+  m_Name: Office
+  m_EditorClassIdentifier: Assembly-CSharp::LevelDefinition
+  levelId: 100
+  sceneName: Office
+  category: Ghost
+  displayName: Office - 2010
+  description: 'An office in the information age is experiencing a haunting. '
+  thumbnail: {fileID: 21300000, guid: 5f09a2a36dd80184cb89222cffb3d22d, type: 3}
+  requirements: 0
+  recommendedLevel: 0
+  rewardMin: 1
+  rewardMax: 2
+  modifiersToRoll: 0
