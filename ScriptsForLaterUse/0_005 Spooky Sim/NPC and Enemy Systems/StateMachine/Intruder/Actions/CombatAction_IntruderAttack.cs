@@ -1,0 +1,20 @@
+using UnityEngine;
+
+[AddComponentMenu("Cherry/AI/Actions/Intruder/Attack")]
+public class CombatAction_IntruderAttack : CombatAction
+{
+    private IntruderMaster _m;
+
+    public override void Initialization()
+    {
+        base.Initialization();
+        _m = GetComponentInParent<IntruderMaster>() ?? GetComponent<IntruderMaster>();
+    }
+
+    public override void PerformAction()
+    {
+        if (_m == null) { ActionInProgress = false; return; }
+        _m.TickAttack();
+        ActionInProgress = true;
+    }
+}

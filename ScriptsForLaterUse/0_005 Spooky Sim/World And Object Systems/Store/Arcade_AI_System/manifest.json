@@ -1,0 +1,15 @@
+{
+  "package": "Arcade AI System",
+  "namespace": "Cherry.ArcadeAI",
+  "script_count": 26,
+  "includes": [
+    "Hierarchical AI state machine",
+    "Customer activity planning",
+    "Generic arcade stations and queues",
+    "Worker station assignment",
+    "Customer review memory",
+    "Arcade reputation/star rating",
+    "Arcade capacity",
+    "Daily traffic spawning"
+  ]
+}

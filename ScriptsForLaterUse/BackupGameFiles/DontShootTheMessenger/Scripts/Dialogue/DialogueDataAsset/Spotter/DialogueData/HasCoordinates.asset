@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0eedfb4350525ac45a0ebc94140c98ba, type: 3}
+  m_Name: HasCoordinates
+  m_EditorClassIdentifier: 
+  dialogueID: 
+  conditions:
+  - {fileID: 11400000, guid: 479764a57651fa04e9ea9c216d796cc0, type: 2}
+  pages:
+  - sentences:
+    - "You\u2019ve got the target. Move!"
+    - "Artillery\u2019s waiting."
+    voiceClip: {fileID: 0}
+    options:
+    - {fileID: 11400000, guid: 3311c8f1b2f805f4fa2832bec6cd4683, type: 2}
+  priority: 20
